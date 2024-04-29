@@ -1,0 +1,12 @@
+{
+	"name": "NodeSchool Valencia",
+	"location": "Valencia",
+	"country": "ES",
+	"region": "Europe",
+	"organizers": [
+		"itspoma"
+	],
+	"website": "http://nodeschool.io/valencia",
+	"twitter": "",
+	"repo": "http://github.com/nodeschool/valencia"
+}
